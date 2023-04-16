@@ -4,4 +4,4 @@
 
 ## Зміст
 
-1. [Структура проєкту](#https://github.com/NoNTvonG/Swift-helpers/tree/main/SwiftUI/File%20structure)
+1. [Структура проєкту](https://github.com/NoNTvonG/Swift-helpers/tree/main/SwiftUI/File%20structure)
