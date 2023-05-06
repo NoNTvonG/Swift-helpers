@@ -5,3 +5,4 @@
 ## Зміст
 
 1. [Структура проєкту](https://github.com/NoNTvonG/Swift-helpers/tree/main/SwiftUI/File%20structure)
+2. [Типи](https://github.com/NoNTvonG/Swift-helpers/tree/main/SwiftUI/File%20propertys)
